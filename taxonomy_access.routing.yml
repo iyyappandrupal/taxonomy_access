@@ -1,0 +1,6 @@
+taxonomy_access.settings:
+  path: '/admin/config/people/taxonomy_access'
+  defaults:
+    _title: 'Taxonomy Access Control'
+  requirements:
+    _permission: 'administer permissions'

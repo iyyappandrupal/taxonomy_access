@@ -1,0 +1,6 @@
+taxonomy_access.settings:
+  title: 'Taxonomy Access Control'
+  parent: user.admin_index
+  description: 'Access control for user roles based on taxonomy categories.'
+  route_name: taxonomy_access.settings
+  weight: -10
